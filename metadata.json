@@ -1,0 +1,6 @@
+{
+  "name": "ImmuneQ",
+  "description": "Comprehensive autoimmune disease knowledge base, symptom and flare-up logger, evidence-based care manager, AI medical assistant, and supportive peer community forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
